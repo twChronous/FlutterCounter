@@ -1,6 +1,6 @@
 # FlutterCounter
 
-FlutterCounter is a project made using Flutter, that I made to start learning Dart and Flutter
+FlutterCounter is a project made using Flutter, that I made to start learning Dart and Flutter based on [RocketSeat](https://www.rocketseat.com.br/) NLW #06 first class 
 
 ## Installation
 
