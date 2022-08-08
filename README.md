@@ -35,7 +35,7 @@ Doctor summary (to see all details, run flutter doctor -v):
 ! Doctor found issues in 1 category.
 ````
 
-- To start the project you just need to use this command
+- To start the project you just need to use the following command
 
 - for Windows users
   ```bash
